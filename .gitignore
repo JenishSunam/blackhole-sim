@@ -1,0 +1,16 @@
+build/
+bin/
+gen/
+out/
+*.apk
+*.aab
+*.jks
+*.keystore
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+.sketchware/
+*.bak
+local.properties
